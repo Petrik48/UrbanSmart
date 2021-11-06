@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UrbanSmart/static/css/main.154ba112.chunk.css",
+    "main.js": "/UrbanSmart/static/js/main.332a0edd.chunk.js",
+    "main.js.map": "/UrbanSmart/static/js/main.332a0edd.chunk.js.map",
+    "runtime-main.js": "/UrbanSmart/static/js/runtime-main.bfe8f814.js",
+    "runtime-main.js.map": "/UrbanSmart/static/js/runtime-main.bfe8f814.js.map",
+    "static/js/2.295051ec.chunk.js": "/UrbanSmart/static/js/2.295051ec.chunk.js",
+    "static/js/2.295051ec.chunk.js.map": "/UrbanSmart/static/js/2.295051ec.chunk.js.map",
+    "index.html": "/UrbanSmart/index.html",
+    "static/css/main.154ba112.chunk.css.map": "/UrbanSmart/static/css/main.154ba112.chunk.css.map",
+    "static/js/2.295051ec.chunk.js.LICENSE.txt": "/UrbanSmart/static/js/2.295051ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe8f814.js",
+    "static/js/2.295051ec.chunk.js",
+    "static/css/main.154ba112.chunk.css",
+    "static/js/main.332a0edd.chunk.js"
+  ]
+}

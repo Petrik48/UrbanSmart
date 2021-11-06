@@ -1,0 +1,27 @@
+* {
+  font-family: 'Saira', sans-serif;
+  font-size: 24px;
+  line-height: 26px;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+
+body {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: grey;
+}
+

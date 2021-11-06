@@ -1,0 +1,26 @@
+.profileLogin {
+  color: #fff;
+  font-size: 48px;
+  transition: color .5s ease-in-out;
+}
+
+.profileLogin::after {
+  content: '';
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  background: transparent;
+  z-index: -1;
+  transition: background .5s ease-in-out;
+}
+
+.profileLogin:hover {
+  color: grey;
+  font-size: 48px;
+}
+
+.profileLogin:hover::after{
+  background: #fff;
+}
